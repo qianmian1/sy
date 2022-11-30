@@ -1,0 +1,1 @@
+<view class="home"><nabb u-i="09fcaef8-0" bind:__l="__l"></nabb><tab wx:if="{{a}}" u-i="09fcaef8-1" bind:__l="__l" u-p="{{a}}"></tab><list-sorll u-s="{{['d']}}" u-i="09fcaef8-2" bind:__l="__l"><list-cord wx:if="{{b}}" u-i="09fcaef8-3,09fcaef8-2" bind:__l="__l" u-p="{{b}}"></list-cord></list-sorll></view>
