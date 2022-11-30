@@ -1,0 +1,1 @@
+<view><input type="text" placeholder="123" value="{{a}}" bindinput="{{b}}"></input><input type="password" placeholder="123" value="{{c}}" bindinput="{{d}}"></input><input type="text" placeholder="1234" value="{{e}}" bindinput="{{f}}"></input><button bindtap="{{h}}">注册 {{g}}</button></view>

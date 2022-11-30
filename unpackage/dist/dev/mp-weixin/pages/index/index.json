@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "nabb": "../../components/nabb/nabb",
+    "tab": "../../components/tab/tab",
+    "list-cord": "../../components/list-cord/list-cord",
+    "list-sorll": "../../components/list-sorll/list-sorll"
+  }
+}
