@@ -3,13 +3,8 @@
     "pages/index/index",
     "pages/zhuche/zhuche",
     "pages/zhuche/fuzhu/fuzhu",
-    "pages/zhuche/wanjia/wanjia"
+    "pages/zhuche/wanjia/wanjia",
+    "pages/zhuche/tiaozhuan/tiaozhuan"
   ],
-  "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
-    "backgroundColor": "#F8F8F8"
-  },
   "usingComponents": {}
 }
