@@ -52,9 +52,8 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
     d: common_vendor.o(($event) => $data.password = $event.detail.value),
     e: $data.zhucheMa,
     f: common_vendor.o(($event) => $data.zhucheMa = $event.detail.value),
-    g: common_vendor.t(_ctx.token),
-    h: common_vendor.o(($event) => $options.login())
+    g: common_vendor.o(($event) => $options.login())
   };
 }
-var MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "C:/Users/Administrator/Desktop/yuanshen/pages/zhuche/wanjia/wanjia.vue"]]);
+var MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "E:/\u65B0\u5EFA\u6587\u4EF6\u5939/sy/pages/zhuche/wanjia/wanjia.vue"]]);
 wx.createPage(MiniProgramPage);

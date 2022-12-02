@@ -1,5 +1,8 @@
 {
+  "navigationStyle": "custom",
   "navigationBarTitleText": "",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "nabb": "../../components/nabb/nabb"
+  }
 }
